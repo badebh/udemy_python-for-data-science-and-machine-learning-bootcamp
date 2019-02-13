@@ -3,3 +3,35 @@
 ################################################################################
 
 *.ipynb
+*.xlsx
+*.csv
+*.pdf
+*.html
+*.png
+/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/df3
+/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/df2
+/Refactored_Py_DS_ML_Bootcamp-master/07-Pandas-Built-in-Data-Viz/df1
+/Refactored_Py_DS_ML_Bootcamp-master/04-Pandas-Exercises/Ecommerce Purchases
+/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/multi_index_example
+/Refactored_Py_DS_ML_Bootcamp-master/03-Python-for-Data-Analysis-Pandas/example
+/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/MNIST_data/train-labels-idx1-ubyte.gz
+/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/MNIST_data/train-images-idx3-ubyte.gz
+/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/MNIST_data/t10k-labels-idx1-ubyte.gz
+/Refactored_Py_DS_ML_Bootcamp-master/22-Deep Learning/MNIST_data/t10k-images-idx3-ubyte.gz
+/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/services.txt
+/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/example2.txt
+/Refactored_Py_DS_ML_Bootcamp-master/21-Big-Data-and-Spark/example.txt
+/Refactored_Py_DS_ML_Bootcamp-master/20-Natural-Language-Processing/smsspamcollection/SMSSpamCollection
+/Refactored_Py_DS_ML_Bootcamp-master/20-Natural-Language-Processing/smsspamcollection/readme
+/Refactored_Py_DS_ML_Bootcamp-master/19-Recommender-Systems/u.item
+/Refactored_Py_DS_ML_Bootcamp-master/19-Recommender-Systems/u.data
+/Refactored_Py_DS_ML_Bootcamp-master/19-Recommender-Systems/Movie_Id_Titles
+/Refactored_Py_DS_ML_Bootcamp-master/17-K-Means-Clustering/College_Data
+/Refactored_Py_DS_ML_Bootcamp-master/14-K-Nearest-Neighbors/KNN_Project_Data
+/Refactored_Py_DS_ML_Bootcamp-master/14-K-Nearest-Neighbors/Classified Data
+/Refactored_Py_DS_ML_Bootcamp-master/11-Linear-Regression/Ecommerce Customers
+/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/2014_World_Power_Consumption
+/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/2014_World_GDP
+/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/2012_Election_Data
+/Refactored_Py_DS_ML_Bootcamp-master/09-Geographical-Plotting/2011_US_AGRI_Exports
+*.sqlite
